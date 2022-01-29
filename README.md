@@ -1,6 +1,6 @@
 # Flight-Reservation-System
-A Flight Reservation System is a simple application, which is created with the basic idea to allow users to register themselves and book tickets. MakeMyTrip and Yatra are some examples of flight reservation systems. As part of this project, you will create a miniature version of a Flight Reservation System.
-Flight Reservation System to keep track of all tickets, flights and passengers. The system should be able to track what flights are available and what is the current capacity for different flights. If someone wants to book a ticket, they must first register themself as a passenger by providing certain details. Once a passenger has registered themself, they must be able to book a seat in one of the available flights based on the current available capacity. Also, the system should allow passengers to book two types of tickets, regular tickets and tourist tickets.
+
+Flight Reservation System keep track of all tickets, flights and passengers. The system should be able to track what flights are available and what is the current capacity for different flights. If someone wants to book a ticket, they must first register themself as a passenger by providing certain details. Once a passenger has registered themself, they must be able to book a seat in one of the available flights based on the current available capacity. Also, the system should allow passengers to book two types of tickets, regular tickets and tourist tickets.
 
 For each passenger, we should be able to keep a record of their contact details (name, phone number and email ID) and address details (street, city and state). We should be able to get the contact details and address details for any passenger or update these details whenever required.
 
